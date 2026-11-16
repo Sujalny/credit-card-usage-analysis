@@ -1,0 +1,4 @@
+customer_id,age,annual_income,gender,city,card_type
+DEMO001,29,850000,Female,Mumbai,Gold
+DEMO002,42,1400000,Male,Bengaluru,Platinum
+DEMO003,35,650000,Non-binary,Jaipur,Classic
